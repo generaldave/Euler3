@@ -24,7 +24,7 @@ import math             # For square root
 #                                                                     #
 #######################################################################
 
-TITLE    = "Project Euler: Problem 2"   # GUI Title.
+TITLE    = "Project Euler: Problem 3"   # GUI Title.
 GEOMETRY = "300x133"                    # GUI screen size.
 NUMBER   = 600851475143                 # Find prime factors of this
 
@@ -35,7 +35,7 @@ NUMBER   = 600851475143                 # Find prime factors of this
 #######################################################################
 
 class Euler:
-    # Method finds solution to Project Euler: Problem 2
+    # Method finds solution to Project Euler: Problem 3
     def findSolution(self):
         # Declare factor variable
         number = NUMBER
